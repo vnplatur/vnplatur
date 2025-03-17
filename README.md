@@ -14,7 +14,7 @@
     
   -  👨‍💻 All my projects are available in the <a href="https://github.com/vnplatur?tab=repositories">Click Here</a>
   
-  -  💬 Ask me about HTML, CSS, JavaScript, React, SQL, C++,Java ,Git/GitHub
+  -  💬 Ask me about HTML, CSS, JavaScript, Nodejs, React, SQL, C++, Java , Git/GitHub
     
   -  📃 Know about my experiences <a href="https://drive.google.com/file/d/1H8F2r99EAwZx0pkzZE3jx-f3YPlEn86X/view?usp=sharing"> Resume </a>
   
@@ -37,8 +37,10 @@
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;
   <!-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
+  ![Node.js](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
   <!-- ![Spring](https://img.shields.io/badge/spring-%23ED8B00.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
